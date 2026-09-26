@@ -1,0 +1,7 @@
+---
+# my custom rule domain
+payload:
+  - '+.linux.do'
+  - '+.v2ex.com'
+  - '+.bioconductor.org'
+  - '+.osn.xsede.org'
